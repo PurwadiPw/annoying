@@ -46,6 +46,7 @@ Kebutuhan fungsionalitas yang dibutuhkan dalam mendukung aplikasi ini adalah:
 
 ### Kebutuhan non fungsionalitas
 Kebutuhan non–fungsional adalah batasan layanan atau fungsi yang ditawarkan sistem seperti batasan waktu, batasan pengembangan proses, standarisasi dll.
+
 Kebutuhan non-fungsional ini membantu proses jalannya sistem, antara lain :
 
 * Dibutuhkan kecepatan internet yang stabil
@@ -89,6 +90,7 @@ Dalam hal ini Universitas Widyatama khususnya pada Prodi Sistem Informasi sangat
  
 ### Kebutuhan non fungsionalitas
 Kebutuhan non–fungsional adalah batasan layanan atau fungsi yang ditawarkan sistem seperti batasan waktu, batasan pengembangan proses, standarisasi dll.
+
 Kebutuhan non-fungsional ini membantu proses jalannya sistem, antara lain :
 
 * Dibutuhkan kecepatan internet yang stabil
