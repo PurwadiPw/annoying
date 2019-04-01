@@ -34,9 +34,35 @@ Tujuan : Memerikan bentuk-bentuk laporan sistem dan dokumennya.
 
 Hasil : Bentuk (forms) dari dokumentasi keluaran (output).
 
+## Studi kasus perkuliahan
+### Deskripsi
+Information Display System Jadwal Perkuliahan Informatika Universitas Muhammadiyah Surakarta berbasis Web. Aplikasi ini nantinya akan ditampilkan kedalam sebuah layar LCD yang diletakkan didepan kantor tata usaha, sehingga mahasiswa dapat mengetahui dosen yang mengajarnya hadir atau tidak dan apakah jam mengajarnya dirubah atau tidak. Sistem yang akan peneliti buat ini nantinya akan menampilkan seluruh jadwal perkuliahan. Dosen dapat menginformasikan kehadirannya melalui sistem tersebut dengan cara SMS dengan format yang sudah ditentukan dan sistem akan mengolah data yang dikirimkan dan menampilkan informasi tersebut ke dalam layar LCD. 
+
+### Kebutuhan fungsionalitas
+Kebutuhan fungsionalitas yang dibutuhkan dalam mendukung aplikasi ini adalah:
+
+1. Daftar Dosen Prodi Sistem Informasi Universitas Widyatama
+2. Daftar Jadwal Mata Kuliah Prodi Informatika Universitas Widyatama
+
+### Kebutuhan non fungsionalitas
+Kebutuhan non–fungsional adalah batasan layanan atau fungsi yang ditawarkan sistem seperti batasan waktu, batasan pengembangan proses, standarisasi dll.
+Kebutuhan non-fungsional ini membantu proses jalannya sistem, antara lain :
+
+* Dibutuhkan kecepatan internet yang stabil
+* Dibutuhkan keamanan terhadap data
+* Dibutuhkan sistem perangkat keras (Hardware) untuk membantu jalannya sistem
+* Dibutuhkan sistem perangkat lunak (Software) untuk pembuatan sistem
+
+### DFD Level 0
+<div align="center" markdown="1">
+
+![DFD Level 0](https://raw.githubusercontent.com/PurwadiPw/annoying/master/kuliah/apsi/dfd-lv-0-perkuliahan.png)
+
+</div>
+
 ## Studi kasus perwalian
 ### Deskripsi
- Dalam hal ini Universitas Widyatama khususnya pada Prodi Sistem Informasi sangat membutuhkan sistem informasi yang berhubungan dengan perwalian mahasiswa. Sehingga dengan adanya program ini diharapkan akan mempermudah dosen wali dalam memberikan bimbingan dan nasehat kepada mahasiswanya berdasarkan data – data dari mahasiswa itu sendiri yang mencakup IP per semester ,pengambilan jumlah krs, keluhan – keluhan mahasiswa, jumlah tatap muka perwalian per mahasiswa dan lain lain agar membantu mahasiswa dalam menyiapkan kegiatan perkuliahan dalam suatu semester tertentu. 
+Dalam hal ini Universitas Widyatama khususnya pada Prodi Sistem Informasi sangat membutuhkan sistem informasi yang berhubungan dengan perwalian mahasiswa. Sehingga dengan adanya program ini diharapkan akan mempermudah dosen wali dalam memberikan bimbingan dan nasehat kepada mahasiswanya berdasarkan data – data dari mahasiswa itu sendiri yang mencakup IP per semester ,pengambilan jumlah krs, keluhan – keluhan mahasiswa, jumlah tatap muka perwalian per mahasiswa dan lain lain agar membantu mahasiswa dalam menyiapkan kegiatan perkuliahan dalam suatu semester tertentu. 
 
 ### Kebutuhan fungsionalitas
 1. Untuk Dosen Wali
@@ -53,10 +79,10 @@ Hasil : Bentuk (forms) dari dokumentasi keluaran (output).
   * Dosen dan Jadwal Perwalian. 
     
     Nama Dosen dan Jadwal perwaliannya sangat dibutuhkan oleh mahasiswa pada saat kegiatan perwalian.
-3. Untuk Administrator / KaProgdi 
+3. Untuk Administrator / KaProdi 
   * Daftar Dosen Wali 
    
-    daftar yang menjelaskan tentang data – data tentang dosen yang telah ditugaskan menjadi dosesn wali di progdi.
+    daftar yang menjelaskan tentang data – data tentang dosen yang telah ditugaskan menjadi dosesn wali di Prodi.
   * Daftar Mahasiswa Perwalian 
     
     daftar yang berisi data – data mahasiswa beserta setiap dosen wali yang mengampunya. 
