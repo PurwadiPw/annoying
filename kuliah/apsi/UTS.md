@@ -23,13 +23,13 @@ Sistem Informasi “Sekumpulan prosedur manual atau terkomputerisasi yang mengum
 
 ### Kebutuhan fungsionalitas
 1. Untuk Dosen Wali
+
   1. Laporan Indek Prestasi
    
-   adalah laporan indek prestasi baik kumulatif atau indek prestasi per semester untuk setiap mahasiwa perwaliannya.
+ adalah laporan indek prestasi baik kumulatif atau indek prestasi per semester untuk setiap mahasiwa perwaliannya.
   
-  2. Laporan Record Perwalian.
-   
-   adalah laporan record perwalian untuk mahasiswa perwaliannya dari awal sampai semester yang telah dicapai.
+  2. Laporan Record Perwalian. 
+    adalah laporan record perwalian untuk mahasiswa perwaliannya dari awal sampai semester yang telah dicapai.
   
   3. Laporan Mahasiswa Perwalian.
    
@@ -37,7 +37,6 @@ Sistem Informasi “Sekumpulan prosedur manual atau terkomputerisasi yang mengum
 
 2. Untuk Mahasiswa
   1. Dosen dan Jadwal Perwalian. 
-   
    Nama Dosen dan Jadwal perwaliannya sangat dibutuhkan oleh mahasiswa pada saat kegiatan perwalian.
 
 3. Untuk Administrator / KaProgdi 
