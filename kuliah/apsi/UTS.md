@@ -5,6 +5,16 @@ Informasi data yang telah diproses menjadi bentuk yang memiliki arti bagi peneri
 
 Sistem Informasi “Sekumpulan prosedur manual atau terkomputerisasi yang mengumpulkan/mengambil, mengolah, menyimpan dan menyebarkan informasi dalam mendukung pengambilan dan kendali keputusan”
 
+## Peranan SI dan TI pada Organisasi
+1. Menunjang kegiatan bisnis operasional.
+
+   Mulai dari akuntansi sampai dengan penelusuran pesanan pelanggan, sistem informasi menyediakan dukungan bagi manajemen dalam operasi kegiatan bisnis sehari-hari. Ketkka tanggapan atau respon yang cepat menjadi penting, maka kemampuan sistem informasi untuk dapat mengumpulkan dan mengintegrasikan informasi ke berbagai fungsi bisnis menjadi kritis atau penting.
+2. Menunjang untuk pengambilan keputusan.
+
+   Sistem informasi dapat mengombinasikan informasi untuk membantu manajer menjalankan bisnis dengan lebih baik, informasi yang sama dapat membantu para manajer mengidentifikasikan kecenderungan dan untuk mengevaluasi hasil dari keputusan sebelumnya. Sistem informasi akan membantu para manajer membuat keputusan yang lebih baik, lebih tepat, dan lebih bermakna.
+
+http://kuantin1993.blogspot.com/2013/06/peran-teknologi-informasi-dalam.html
+
 ## Aturan DFD (anak panah)
 ### Fungsi
 1. Alur data yang berasal dari data store, berarti proses membutuhkan data yang berada pada data store tersebut
@@ -16,6 +26,13 @@ Sistem Informasi “Sekumpulan prosedur manual atau terkomputerisasi yang mengum
 2. Sebuah Arus Data harus dilampirkan ke dalam Proses
 4. Suatu Arus Data memiliki nama atau label berupa kata benda
 5. Input ke suatu proses harus berbeda dengan output dari proses
+
+## Output SDLC
+Merancang bentuk laporan dan dokumen-dokumen untuk system yang baru berdasarkan system saat ini.
+
+Tujuan : Memerikan bentuk-bentuk laporan sistem dan dokumennya.
+
+Hasil : Bentuk (forms) dari dokumentasi keluaran (output).
 
 ## Studi kasus perwalian
 ### Deskripsi
