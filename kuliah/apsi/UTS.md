@@ -24,20 +24,31 @@ Sistem Informasi “Sekumpulan prosedur manual atau terkomputerisasi yang mengum
 ### Kebutuhan fungsionalitas
 1. Untuk Dosen Wali
   1. Laporan Indek Prestasi
+   
    adalah laporan indek prestasi baik kumulatif atau indek prestasi per semester untuk setiap mahasiwa perwaliannya.
+  
   2. Laporan Record Perwalian.
+   
    adalah laporan record perwalian untuk mahasiswa perwaliannya dari awal sampai semester yang telah dicapai.
+  
   3. Laporan Mahasiswa Perwalian.
+   
    adalah laporan mengenai data pribadi dari setiap mahasiwa perwaliannya.
+
 2. Untuk Mahasiswa
-  1. Dosen dan Jadwal Perwalian.
+  1. Dosen dan Jadwal Perwalian. 
+   
    Nama Dosen dan Jadwal perwaliannya sangat dibutuhkan oleh mahasiswa pada saat kegiatan perwalian.
-3. Untuk Administrator / KaProgdi
-  1. Daftar Dosen Wali
+
+3. Untuk Administrator / KaProgdi 
+  1. Daftar Dosen Wali 
+   
    daftar yang menjelaskan tentang data – data tentang dosen yang telah ditugaskan menjadi dosesn wali di progdi.
-  2. Daftar Mahasiswa Perwalian
+  
+  2. Daftar Mahasiswa Perwalian 
+   
    daftar yang berisi data – data mahasiswa beserta setiap dosen wali yang mengampunya. 
-    
+ 
 ### Kebutuhan non fungsionalitas
 Kebutuhan non–fungsional adalah batasan layanan atau fungsi yang ditawarkan sistem seperti batasan waktu, batasan pengembangan proses, standarisasi dll. Kebutuhan non-fungsional ini membantu proses jalannya sistem, antara lain :
 1. Dibutuhkan kecepatan internet yang stabil
@@ -47,5 +58,5 @@ Kebutuhan non–fungsional adalah batasan layanan atau fungsi yang ditawarkan si
 
 DFD Level 0
 <div align="center" markdown="1">
-    ![DFD Level 0](https://raw.githubusercontent.com/PurwadiPw/annoying/master/kuliah/apsi/dfd-lv-0-perwalian.png)
+![DFD Level 0](https://raw.githubusercontent.com/PurwadiPw/annoying/master/kuliah/apsi/dfd-lv-0-perwalian.png)
 </div>
